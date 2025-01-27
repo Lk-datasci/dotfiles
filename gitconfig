@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laura.kipiani@gmail.com
+	name = Laura Kipiani
